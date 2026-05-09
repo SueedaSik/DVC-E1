@@ -200,4 +200,4 @@ public class Taschenrechner extends Frame{
         Taschenrechner tr = new Taschenrechner();
         tr.setVisible(true);
     }
-}
+}// Mein Taschenrechner
