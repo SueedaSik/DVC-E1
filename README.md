@@ -42,12 +42,13 @@ Beweis: https://github.com/SueedaSik/DVC-E1/commits/main
 
 
 ### 4. Zeitreise
-Ich bin mit `git checkout 3ac3469` zum ersten Commit gereist 
+Ich habe mit `git checkout 3ac3469` einen älteren Stand aufgerufen 
 - Zeitreise rein:
   
 <img width="1146" height="500" alt="Bild 09 05 26 um 17 43" src="https://github.com/user-attachments/assets/9cc43189-3eee-4d66-99e3-0897d9bbae69" />
 
-und mit `git checkout main` wieder zurück.
+
+und mit `git checkout main` wieder zum aktuellen Stand gewechselt.
 - Zeitreise raus:
   
 <img width="770" height="86" alt="Bild 09 05 26 um 17 44" src="https://github.com/user-attachments/assets/e48753e3-ba27-4fe5-8491-2cf8280d30a6" />
