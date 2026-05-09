@@ -61,19 +61,19 @@ bin hin und her gewechselt und habe sie in main gemergt.
   
   <img width="1178" height="40" alt="Bild 09 05 26 um 17 46" src="https://github.com/user-attachments/assets/0206c64e-0256-44d4-b981-2c6af002fb8d" />
 
-- Feature A commit:
+- `Feature A` commit:
   
   <img width="1178" height="94" alt="Bild 09 05 26 um 17 47" src="https://github.com/user-attachments/assets/ad7e118b-ebcf-4651-ace5-81305cfd8d7b" />
 
-- Feature B commit:
+- `Feature B` commit:
   
   <img width="518" height="62" alt="Bild 09 05 26 um 17 49" src="https://github.com/user-attachments/assets/ad03695f-7f2a-4a6f-937b-8e111db2b04c" />
 
-- Merge feature-A:
+- Merge `feature-A`:
   
   <img width="1178" height="154" alt="Bild 09 05 26 um 17 50" src="https://github.com/user-attachments/assets/9c678e20-b3bd-4746-8a46-980de7bb5dd4" />
 
-- Finaler git log (alle Commits):
+- Finaler `git log` (alle Commits):
   
   <img width="1068" height="286" alt="Bild 09 05 26 um 19 10" src="https://github.com/user-attachments/assets/42e7bb46-013a-4ee4-a999-a990e1ca2375" />
 
