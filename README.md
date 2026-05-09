@@ -79,5 +79,4 @@ bin hin und her gewechselt und habe sie in main gemergt.
 
 
 ### 6. Pull-Request
-Link:
-https://github.com/edlich/education/pull/608
+Link: https://github.com/edlich/education/pull/608
